@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
 
-            this.GameMap = new Map(new TiledBitmap(Properties.Resources.grass_dirt, 32, 32));
+            this.GameMap = new Map(new TiledBitmap(TileDrawing.Properties.Resources.grass_dirt, 32, 32));
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)

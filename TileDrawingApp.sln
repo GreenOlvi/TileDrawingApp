@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{E0FD4914-3D69-429B-98A7-894F201E5AA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileDrawing", "WindowsFormsApplication1\TileDrawing.csproj", "{E0FD4914-3D69-429B-98A7-894F201E5AA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
